@@ -133,7 +133,7 @@ Each run creates a folder such as `outputs/cifar10_epoch50_YYYY-MM-DD_HH-MM-SS/`
 * [CIFAR-10 Dataset](https://www.cs.toronto.edu/~kriz/cifar.html)
 * [SVHN Dataset](http://ufldl.stanford.edu/housenumbers/)
 * [TorchVision Docs](https://pytorch.org/vision/stable/index.html)
-* [Sample Outputs](#) <!-- replace with your link -->
+* [Sample Outputs](https://drive.google.com/drive/folders/18dZ6dTzLg7nqobTcdiBfnPn0mj7cQFsb?usp=drive_link) 
 
 ---
 
@@ -147,8 +147,4 @@ Open an issue or pull request for questions, suggestions, or improvements.
 
 ---
 
-**You can copy and paste this directly into your `README.md` for GitHub.**  
-Just update `[Sample Outputs](#)` if you have a hosted results folder.
-
-Let me know if you want a badge, credits, or anything else added!
 ```
