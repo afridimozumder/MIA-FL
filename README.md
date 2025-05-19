@@ -1,4 +1,4 @@
-# Membership Inference Attack (MIA) on Deep Learning Models
+# Membership Inference Attack (MIA) in Federated Learning
 This repository explores **Membership Inference Attacks (MIA)** on image classification models using the **CIFAR-10** and **SVHN** datasets.  
 You can use this code to train models, analyze their privacy vulnerabilities, and visualize/model how successful an attacker could be in distinguishing between "member" (training data) and "non-member" (test data) samples.
 
