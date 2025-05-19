@@ -1,4 +1,8 @@
-# Membership Inference Attack (MIA) in Federated Learning
+# Membership Inference Attack (MIA) In n Federated Learning 
+---
+
+```
+
 This repository explores **Membership Inference Attacks (MIA)** on image classification models using the **CIFAR-10** and **SVHN** datasets.  
 You can use this code to train models, analyze their privacy vulnerabilities, and visualize/model how successful an attacker could be in distinguishing between "member" (training data) and "non-member" (test data) samples.
 
@@ -209,7 +213,7 @@ You are simulating a **real-world privacy attack** where a malicious party tries
 * [SVHN Dataset](http://ufldl.stanford.edu/housenumbers/)
 * [CIFAR-10 Dataset](https://www.cs.toronto.edu/~kriz/cifar.html)
 * [Official TorchVision Documentation](https://pytorch.org/vision/stable/index.html)
-* **Sample Output Folder:** [see here](#)  <!-- Edit this link to your outputs zip or hosted results -->
+* **Results/Output Folder:** [see here](https://drive.google.com/drive/folders/18dZ6dTzLg7nqobTcdiBfnPn0mj7cQFsb?usp=drive_link) 
 
 ---
 
@@ -219,10 +223,4 @@ Questions? Suggestions?
 Open an issue or reach out to the repo owner!
 
 ---
-
-```
-
----
-
-```
 
