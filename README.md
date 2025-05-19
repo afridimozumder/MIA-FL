@@ -1,12 +1,4 @@
-# Membership Inference Attack in Federated Learning
-Absolutely! Below is a detailed, well-structured `README.md` for your project.
-This is written for clarity and thoroughness so that **any computer science/cybersecurity student** (or researcher) can understand how to use your code, what it does, and how to interpret the results.
-
----
-
-```markdown
 # Membership Inference Attack (MIA) on Deep Learning Models
-
 This repository explores **Membership Inference Attacks (MIA)** on image classification models using the **CIFAR-10** and **SVHN** datasets.  
 You can use this code to train models, analyze their privacy vulnerabilities, and visualize/model how successful an attacker could be in distinguishing between "member" (training data) and "non-member" (test data) samples.
 
