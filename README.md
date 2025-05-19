@@ -79,6 +79,8 @@ README.md
 
 ````
 
+---
+
 ## Installation
 
 1. **Clone the repository:**
@@ -207,7 +209,7 @@ You are simulating a **real-world privacy attack** where a malicious party tries
 * [SVHN Dataset](http://ufldl.stanford.edu/housenumbers/)
 * [CIFAR-10 Dataset](https://www.cs.toronto.edu/~kriz/cifar.html)
 * [Official TorchVision Documentation](https://pytorch.org/vision/stable/index.html)
-* Results/Output Folder: [https://drive.google.com/drive/folders/18dZ6dTzLg7nqobTcdiBfnPn0mj7cQFsb?usp=sharing]
+* **Sample Output Folder:** [see here](#)  <!-- Edit this link to your outputs zip or hosted results -->
 
 ---
 
@@ -217,3 +219,10 @@ Questions? Suggestions?
 Open an issue or reach out to the repo owner!
 
 ---
+
+```
+
+---
+
+```
+
