@@ -1,4 +1,4 @@
-# Membership Inference Attack (MIA) In n Federated Learning 
+# Membership Inference Attack (MIA) In Federated Learning 
 
 ## Overview
 
